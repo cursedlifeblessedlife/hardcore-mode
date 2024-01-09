@@ -15,6 +15,7 @@
     ```
 
 2. **Install Dependencies**:
+   
    Download BepInEx and Follow Instructions: https://docs.bepinex.dev/articles/user_guide/installation/index.html
    
    Copy Hardcore Mode.dll file from Hardcore Mode/bin/Debug and Paste into BepInEx Plugin Directory at Lethal Company/BepInEx/plugins
